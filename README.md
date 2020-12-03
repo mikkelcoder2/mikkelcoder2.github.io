@@ -6,4 +6,4 @@
 
 - [stickman](stickman/)
 
-- [gratis v-bucks](vbucksnew/)
+- [gratis v-bucks](gratis-vbucks/)
